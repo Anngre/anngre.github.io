@@ -16,7 +16,10 @@ hr {
   border-width: 3px;
   border-color: var(--primary-color); 
 }
-
+#mc_embed_signup{
+  display: flex;
+  justify-content: center;
+}
 .faded {
   color: rgba(255, 255, 255, 0.8); 
 }
